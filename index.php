@@ -30,6 +30,7 @@ $kelimeler = explode(' ', $soz);
 // echo str_replace('dünyada', 'marsta', $soz);
 
 $tr = ['ı', 'ş', 'ü'];
+$en = ['i', 's', 'u'];
 
 echo str_replace(['ı', 'ü', 'ş'], ['i', 'u', 's'], $soz);
 
