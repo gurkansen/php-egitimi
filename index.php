@@ -22,6 +22,7 @@ $kelimeler = explode(' ', $soz);
 
 // echo strlen($soz); // Harf sayar string length
 echo $kelimeler[0];
+echo substr($kelimeler[0], 0, 4)
 
 // echo '<a href="">Yurtta</a>';
 
