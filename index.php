@@ -1,17 +1,17 @@
 <?php
 
-$a = 'araba';
-$b = 2;
-
-if ($a == 'araba') {
-  echo 'selam';
-}
-
-if ($a == 'arab') {
-  echo 'selam tekrar';
-} else {
-  echo "selam tekrar else'li";
-}
+// $a = 'araba';
+// $b = 2;
+//
+// if ($a == 'araba') {
+//   echo 'selam';
+// }
+//
+// if ($a == 'arab') {
+//   echo 'selam tekrar';
+// } else {
+//   echo "selam tekrar else'li";
+// }
 
 // $kitaplar = array('Harry Potter', 'Yüzüklerin Efendisi', 'Game Of Thrones');
 
