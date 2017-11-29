@@ -10,7 +10,7 @@ if ($a == 'araba') {
 if ($a == 'arab') {
   echo 'selam tekrar';
 } else {
-
+  echo 'selam tekrar elseli';
 }
 
 // $kitaplar = array('Harry Potter', 'Yüzüklerin Efendisi', 'Game Of Thrones');
