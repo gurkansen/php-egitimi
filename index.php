@@ -1,6 +1,8 @@
 <?php
 
-
+for ($i = 0;) {
+  echo 'For sağlandı';
+}
 
 // $i = 0;
 // while ($i < 7) {
