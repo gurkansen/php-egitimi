@@ -5,6 +5,7 @@ function urlyeCevir($cumle) {
   // 1 - Boşlukları - 'e çevir
   // Türkçe karakterleri ingilizceye çevir
   // Eğer içeride ünlemleri, virgülleri, hashtaglari temizle
+  // Harfleri küçült
 
 
   return $cumle;
