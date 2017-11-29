@@ -17,7 +17,7 @@ $kitaplar = [
   'Game Of Thrones'
 ];
 
-echo $kitaplar[1];
+// echo $kitaplar[1];
 
 // foreach()
 
