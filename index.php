@@ -20,7 +20,7 @@ $kitaplar = [
 // echo $kitaplar[1];
 
 foreach($kitaplar as $yazar => $kitap) {
-  echo $kitap . '<br>';
+  echo $yazar . ': ' . $kitap . '<br>';
 }
 
 // $i = 0;
