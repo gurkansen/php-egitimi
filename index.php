@@ -1,7 +1,9 @@
 <?php
 
 
-
+while (koşul) {
+  echo 'Sağlandı ';
+}
 
 
 // $a = 'araba';
