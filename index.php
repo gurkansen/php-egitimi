@@ -3,9 +3,9 @@
 $a = 'araba';
 $b = 2;
 
-if (!$a == 'araba') {
+if ($a == 'araba') {
   echo 'selam';
-}
+} else if ()
 
 // $kitaplar = array('Harry Potter', 'Yüzüklerin Efendisi', 'Game Of Thrones');
 
