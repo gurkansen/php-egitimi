@@ -11,6 +11,9 @@ function urlyeCevir($cumle) {
   $cumle = str_replace(['!', ',', '#'], '', $cumle);
   $cumle = strtolower($cumle);
 
+  $tr = ['ı', 'ü', 'ş'];
+  $en = ['i', 'u', 's'];
+
 
   return $cumle;
 }
