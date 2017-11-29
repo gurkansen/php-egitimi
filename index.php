@@ -12,9 +12,9 @@
 // }
 
 $kitaplar = [
-  'Harry Potter',
-  'Yüzüklerin Efendisi',
-  'Game Of Thrones'
+  'Rowling' => 'Harry Potter',
+  'Tolkien' => 'Yüzüklerin Efendisi',
+  'Martin' => 'Game Of Thrones'
 ];
 
 // echo $kitaplar[1];
