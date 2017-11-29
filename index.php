@@ -7,7 +7,7 @@
 // echo '<h5>Başlık 5</h5>';
 // echo '<h6>Başlık 6</h6>';
 
-for ($i = 6; $i > 0; $i++) {
+for ($i = 6; $i > 0; $i--) {
   echo '<h' . $i .  '>Başlık ' . $i . '</h' . $i . '>';
 }
 
