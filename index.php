@@ -1,9 +1,9 @@
 <?php
 
-$a = 4;
+$a = 'araba';
 $b = 2;
 
-if ($a == 5) {
+if ($a == 'araba') {
   echo 'selam';
 }
 
