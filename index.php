@@ -3,9 +3,9 @@
 function urlyeCevir($cumle) {
 
   // 1 - Boşlukları - 'e çevir
-  // Türkçe karakterleri ingilizceye çevir
-  // Eğer içeride ünlemleri, virgülleri, hashtaglari temizle
-  // Harfleri küçült
+  // 2 - Türkçe karakterleri ingilizceye çevir
+  // 3 - Eğer içeride ünlemleri, virgülleri, hashtaglari temizle
+  // 4 - Harfleri küçült
 
 
   return $cumle;
