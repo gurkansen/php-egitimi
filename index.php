@@ -1,8 +1,9 @@
 <?php
 
 $a = 5;
+$b = 3;
 
-if ($a == 5 && false) {
+if ($a == 5 && $b == 3) {
   echo 'selam';
 }
 
