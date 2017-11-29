@@ -1,5 +1,7 @@
 <?php
 
+
+
 // function urlyeCevir($cumle) {
 //
 //   // 1 - Boşlukları - 'e çevir
