@@ -3,7 +3,7 @@
 $a = 'araba';
 $b = 2;
 
-if ($a == 'arab') {
+if ($a == 'araba') {
   echo 'selam';
 } else if ($a == 'araba') {
   echo 'selam tekrar';
