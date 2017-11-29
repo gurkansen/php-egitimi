@@ -7,8 +7,10 @@ if ($a == 'araba') {
   echo 'selam';
 }
 
-if ($a == 'araba') {
+if ($a == 'arab') {
   echo 'selam tekrar';
+} else {
+
 }
 
 // $kitaplar = array('Harry Potter', 'Yüzüklerin Efendisi', 'Game Of Thrones');
