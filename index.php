@@ -19,7 +19,7 @@ $kitaplar = [
 
 // echo $kitaplar[1];
 
-foreach($kitaplar as $kitap) {
+foreach($kitaplar as $yazar => $kitap) {
   echo $kitap . '<br>';
 }
 
