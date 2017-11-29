@@ -1,47 +1,45 @@
 <?php
 
+function urlyeCevir($cumle) {
+
+  // 1 - Boşlukları - 'e çevir
+  // 2 - Türkçe karakterleri ingilizceye çevir
+  // 3 - Eğer içeride ünlemleri, virgülleri, hashtaglari temizle
+  // 4 - Harfleri küçült
+
+  $cumle = str_replace(' ', '-', $cumle);
+  $cumle = str_replace(['!', ',', '#'], '', $cumle);
+  $cumle = strtolower($cumle);
+
+  $tr = ['ı', 'ü', 'ş'];
+  $en = ['i', 'u', 's'];
+
+  $cumle = str_replace($tr, $en, $cumle);
 
 
-// function urlyeCevir($cumle) {
-//
-//   // 1 - Boşlukları - 'e çevir
-//   // 2 - Türkçe karakterleri ingilizceye çevir
-//   // 3 - Eğer içeride ünlemleri, virgülleri, hashtaglari temizle
-//   // 4 - Harfleri küçült
-//
-//   $cumle = str_replace(' ', '-', $cumle);
-//   $cumle = str_replace(['!', ',', '#'], '', $cumle);
-//   $cumle = strtolower($cumle);
-//
-//   $tr = ['ı', 'ü', 'ş'];
-//   $en = ['i', 'u', 's'];
-//
-//   $cumle = str_replace($tr, $en, $cumle);
-//
-//
-//   return $cumle;
-// }
+  return $cumle;
+}
 
-// function hashtagVarMi($soz) {
-//
-//   $kelimeler = explode(' ', $soz);
-//
-//   for($i = 0; $i < count($kelimeler); $i++) {
-//     // echo $kelimeler[$i] . '<br>';
-//
-//     if ($kelimeler[$i][0] == '#') {
-//       echo 'hashtag var!';
-//     }
-//
-//   }
-//
-// }
+function hashtagVarMi($soz) {
+
+  $kelimeler = explode(' ', $soz);
+
+  for($i = 0; $i < count($kelimeler); $i++) {
+    // echo $kelimeler[$i] . '<br>';
+
+    if ($kelimeler[$i][0] == '#') {
+      echo 'hashtag var!';
+    }
+
+  }
+
+}
 
 
-// $soz = 'Yurtta Barış, #Dünyada Barış!';
+$soz = 'Yurtta Barış, #Dünyada Barış!';
 
 // echo urlyeCevir($soz);
-// hashtagVarMi($soz);
+hashtagVarMi($soz);
 
 // $soz2 = 'yurtta-baris-dunyada-baris';
 
