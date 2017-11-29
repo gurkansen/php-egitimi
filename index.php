@@ -11,6 +11,14 @@
 //   echo '<h' . $i .  '>Başlık ' . $i . '</h' . $i . '>';
 // }
 
+$kitaplar = [
+  'Harry Potter',
+  'Yüzüklerin Efendisi',
+  'Game Of Thrones'
+];
+
+// foreach()
+
 // $i = 0;
 // while ($i < 7) {
 //   echo 'Sağlandı ';
