@@ -13,9 +13,9 @@
 // echo $kitaplar['Tolkien'][0];
 
 
-$soz = 'Yurtta barış dünyada barış!';
-
-$kelimeler = explode(' ', $soz);
+// $soz = 'Yurtta barış dünyada barış!';
+//
+// $kelimeler = explode(' ', $soz);
 // echo $kelimeler[0];
 
 // echo '<a href="">'    . $kelimeler[2] .     '</a>';
