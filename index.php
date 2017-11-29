@@ -1,11 +1,11 @@
 <?php
 
-$i = 0;
-while ($i < 7) {
-  echo 'Sağlandı ';
-  // $i = $i + 1;
-  $i += 2;
-}
+// $i = 0;
+// while ($i < 7) {
+//   echo 'Sağlandı ';
+//   // $i = $i + 1;
+//   $i += 2;
+// }
 
 
 // $a = 'araba';
