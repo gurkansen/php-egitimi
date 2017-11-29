@@ -1,7 +1,7 @@
 <?php
 
 
-while (koşul) {
+while (true) {
   echo 'Sağlandı ';
 }
 
