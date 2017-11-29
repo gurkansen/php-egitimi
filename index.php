@@ -4,6 +4,7 @@
 // Gürkan -> Hoşgeldin Gürkancığım
 // Erdem -> Hoşgeldin Erdemciğim
 // Mert -> Hoşgeldin Mertciğim
+// Hamdiye -> Hoşgeldin Hamdiyeciğim
 
 
 // function urlyeCevir($cumle) {
