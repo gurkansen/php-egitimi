@@ -22,6 +22,8 @@ function urlyeCevir($cumle) {
 
 function hashtagVarMi($soz) {
 
+  
+
   return 'Hashtag var!';
 }
 
