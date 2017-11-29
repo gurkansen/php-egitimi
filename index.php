@@ -11,17 +11,17 @@
 //   echo '<h' . $i .  '>Başlık ' . $i . '</h' . $i . '>';
 // }
 
-$kitaplar = [
-  'Rowling' => 'Harry Potter',
-  'Tolkien' => 'Yüzüklerin Efendisi',
-  'Martin' => 'Game Of Thrones'
-];
-
-// echo $kitaplar[1];
-
-foreach($kitaplar as $yazar => $kitap) {
-  echo $yazar . ': ' . $kitap . '<br>';
-}
+// $kitaplar = [
+//   'Rowling' => 'Harry Potter',
+//   'Tolkien' => 'Yüzüklerin Efendisi',
+//   'Martin' => 'Game Of Thrones'
+// ];
+//
+// // echo $kitaplar[1];
+//
+// foreach($kitaplar as $yazar => $kitap) {
+//   echo $yazar . ': ' . $kitap . '<br>';
+// }
 
 // $i = 0;
 // while ($i < 7) {
