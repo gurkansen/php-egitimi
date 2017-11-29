@@ -25,7 +25,6 @@ function hashtagVarMi($soz) {
   $kelimeler = explode(' ', $soz);
 
   for($i = 0; $i < count($kelimeler); $i++) {
-    // echo $kelimeler[$i] . '<br>';
 
     if ($kelimeler[$i][0] == '#') {
       echo 'hashtag var!';
