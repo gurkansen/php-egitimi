@@ -7,6 +7,8 @@ function urlyeCevir($cumle) {
   // 3 - Eğer içeride ünlemleri, virgülleri, hashtaglari temizle
   // 4 - Harfleri küçült
 
+  str_replace(' ', '-', $cumle);
+
 
   return $cumle;
 }
