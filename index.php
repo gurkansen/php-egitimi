@@ -5,13 +5,15 @@ $soz = 'Yurtta Barış Dünyada Barış!';
 
 function urlyeCevir($soz) {
 
-  
+
 
 
   return $soz;
 }
 
-$soz2 = 'yurtta-baris-dunyada-baris';
+urlyeCevir($soz);
+
+// $soz2 = 'yurtta-baris-dunyada-baris';
 
 
 
