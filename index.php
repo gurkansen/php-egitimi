@@ -22,7 +22,7 @@ function urlyeCevir($cumle) {
 
 function hashtagVarMi($soz) {
 
-  
+
 
   return 'Hashtag var!';
 }
@@ -30,7 +30,8 @@ function hashtagVarMi($soz) {
 
 $soz = 'Yurtta Barış, #Dünyada Barış!';
 
-echo urlyeCevir($soz);
+// echo urlyeCevir($soz);
+echo hashtagVarMi($soz);
 
 // $soz2 = 'yurtta-baris-dunyada-baris';
 
