@@ -20,7 +20,7 @@ $kelimeler = explode(' ', $soz);
 
 // echo '<a href="">'    . $kelimeler[2] .     '</a>';
 
-echo strlen($soz); // Harf sayar
+echo strlen($soz); // Harf sayar string length
 
 // echo '<a href="">Yurtta</a>';
 
