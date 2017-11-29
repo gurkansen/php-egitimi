@@ -13,7 +13,7 @@
 // echo $kitaplar['Tolkien'][0];
 
 
-$soz = 'urtta barış dünyada barış!';
+$soz = 'Yurtta barış dünyada barış!';
 
 echo '<a href="">Yurtta</a>';
 
