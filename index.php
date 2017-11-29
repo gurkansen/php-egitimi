@@ -29,8 +29,8 @@ $kelimeler = explode(' ', $soz);
 
 // echo str_replace('dünyada', 'marsta', $soz);
 
-echo str_replace('ı', 'i', $soz);
-echo str_replace('ü', 'u', $soz);
+$yenisoz = str_replace('ı', 'i', $soz);
+$yenisoz = str_replace('ü', 'u', $soz);
 echo str_replace('ş', 's', $soz);
 
 // echo '<a href="">Yurtta</a>';
