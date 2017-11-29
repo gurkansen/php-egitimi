@@ -27,7 +27,7 @@ $kelimeler = explode(' ', $soz);
 // echo substr('Erdem', 0, 4);
 
 
-echo str_replace('dünyada', 'marsta', $soz);
+// echo str_replace('dünyada', 'marsta', $soz);
 
 // echo '<a href="">Yurtta</a>';
 
