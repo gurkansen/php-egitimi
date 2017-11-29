@@ -6,6 +6,13 @@
 // Mert -> Hoşgeldin Mertciğim
 // Hamdiye -> Hoşgeldin Hamdiyeciğim
 
+function hosgeldin($isim) {
+
+}
+
+$isim = 'Erdem';
+
+echo hosgeldin($isim);
 
 // function urlyeCevir($cumle) {
 //
