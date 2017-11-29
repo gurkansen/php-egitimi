@@ -1,6 +1,8 @@
 <?php
 
-
+if (true) {
+  echo 'selam';
+}
 
 // $kitaplar = array('Harry Potter', 'Yüzüklerin Efendisi', 'Game Of Thrones');
 
