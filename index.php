@@ -2,12 +2,17 @@
 
 function urlyeCevir($cumle) {
 
+  // 1 - Boşlukları - 'e çevir
+  // Türkçe karakterleri ingilizceye çevir
+  // Eğer içeride ünlem
+
+
   return $cumle;
 }
 
 
 
-$soz = 'Yurtta Barış Dünyada Barış!';
+$soz = 'Yurtta Barış, #Dünyada Barış!';
 
 echo urlyeCevir($soz);
 
