@@ -8,6 +8,8 @@
 
 function hosgeldin($isim) {
 
+
+  return 'Hoşgeldin ' . $isim;
 }
 
 $isim = 'Erdem';
