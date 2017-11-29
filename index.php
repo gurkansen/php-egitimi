@@ -22,9 +22,9 @@ $kelimeler = explode(' ', $soz);
 
 // echo strlen($soz); // Harf sayar string length
 // echo $kelimeler[0];
-echo mb_substr('Gürkan', 0, 4); // mb_string UTF-8'i de dikkate alır
-echo '<br>';
-echo substr('Erdem', 0, 4);
+// echo mb_substr('Gürkan', 0, 4); // mb_string UTF-8'i de dikkate alır
+// echo '<br>';
+// echo substr('Erdem', 0, 4);
 
 // echo '<a href="">Yurtta</a>';
 
