@@ -15,7 +15,6 @@
 
 $soz = 'Yurtta barış dünyada barış!';
 
-// echo $soz2;
 echo '<a href="">Yurtta</a>';
 
 // echo $soz . '<br>';
