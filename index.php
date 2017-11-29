@@ -1,6 +1,6 @@
 <?php
 
-function urlyeCevir($soz) {
+function urlyeCevir($cumle) {
 
   return $soz;
 }
