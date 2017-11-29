@@ -2,6 +2,8 @@
 
 $soz = 'Yurtta Barış Dünyada Barış!';
 
+$soz2 = 'yurtta-baris-dunyada-baris';
+
 
 
 // echo '<h1>Başlık 1</h1>';
