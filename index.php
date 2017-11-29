@@ -20,6 +20,11 @@ function urlyeCevir($cumle) {
   return $cumle;
 }
 
+function hashtagVarMi($soz) {
+
+  return 'Hashtag var!';
+
+}
 
 
 $soz = 'Yurtta Barış, #Dünyada Barış!';
