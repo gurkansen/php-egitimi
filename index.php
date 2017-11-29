@@ -2,6 +2,7 @@
 
 
 // Gürkan -> Hoşgeldin Gürkancığım
+// Erdem -> Hoşgeldin Erdemciğim
 
 
 // function urlyeCevir($cumle) {
