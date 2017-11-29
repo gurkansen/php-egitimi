@@ -16,8 +16,9 @@
 $soz = 'Yurtta barış dünyada barış!';
 
 $kelimeler = explode(' ', $soz);
-echo $kelimeler[0];
+// echo $kelimeler[0];
 
+echo '<a href=""';
 
 // echo '<a href="">Yurtta</a>';
 
