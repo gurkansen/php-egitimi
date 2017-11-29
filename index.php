@@ -32,7 +32,7 @@ $kelimeler = explode(' ', $soz);
 $tr = ['ı', 'ş', 'ü'];
 $en = ['i', 's', 'u'];
 
-echo str_replace(['ı', 'ü', 'ş'], ['i', 'u', 's'], $soz);
+echo str_replace($tr, $en, $soz);
 
 // echo '<a href="">Yurtta</a>';
 
