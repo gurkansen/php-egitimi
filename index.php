@@ -6,7 +6,7 @@
 // Mert -> Hoşgeldin Mertciğim
 // Hamdiye -> Hoşgeldin Hamdiyeciğim
 
-function hosgeldin($isim) {
+function hosgeldin($isim = 'Misafir') {
 
 
   return 'Hoşgeldin ' . $isim;
