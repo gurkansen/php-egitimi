@@ -1,9 +1,14 @@
 <?php
 
 echo '<h1>Başlık 1</h1>';
+echo '<h2>Başlık 2</h2>';
+echo '<h3>Başlık 3</h3>';
+echo '<h4>Başlık 4</h4>';
+echo '<h5>Başlık 5</h5>';
+echo '<h6>Başlık 6</h6>';
 
 for ($i = 0; $i < 7; $i++) {
-  // echo 'For sağlandı';
+
 }
 
 // $i = 0;
