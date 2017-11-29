@@ -1,6 +1,6 @@
 <?php
 
-for ($i = 0;) {
+for ($i = 0; $i < 7) {
   echo 'For sağlandı';
 }
 
