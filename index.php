@@ -15,6 +15,8 @@
 
 $soz = 'Yurtta barış dünyada barış!';
 
+
+// HEllO FROM THE OTHER SIDE.
 // ....
 
 // echo $soz2;
