@@ -3,7 +3,7 @@
 $i = 0;
 while ($i < 7) {
   echo 'Sağlandı ';
-  $i++;
+  $i = $i + 1;
 }
 
 
