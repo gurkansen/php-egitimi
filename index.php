@@ -1,5 +1,9 @@
 <?php
 
+$soz = 'Yurtta Barış Dünyada Barış!';
+
+
+
 // echo '<h1>Başlık 1</h1>';
 // echo '<h2>Başlık 2</h2>';
 // echo '<h3>Başlık 3</h3>';
