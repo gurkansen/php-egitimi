@@ -1,6 +1,7 @@
 <?php
 
 
+// Gürkan -> Hoşgeldin Gürkancığım
 
 
 // function urlyeCevir($cumle) {
