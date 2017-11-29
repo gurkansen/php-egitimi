@@ -15,6 +15,7 @@ function hosgeldin($isim) {
 $isim = 'Erdem';
 
 echo hosgeldin($isim);
+echo '<br>';
 
 // function urlyeCevir($cumle) {
 //
