@@ -5,9 +5,6 @@ $soz = 'Yurtta Barış Dünyada Barış!';
 
 function urlyeCevir($soz) {
 
-
-
-
   return $soz;
 }
 
