@@ -19,7 +19,9 @@ $kitaplar = [
 
 // echo $kitaplar[1];
 
-foreach()
+foreach($kitaplar as $kitap) {
+  echo $kitap;
+}
 
 // $i = 0;
 // while ($i < 7) {
