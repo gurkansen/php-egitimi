@@ -5,7 +5,9 @@ $b = 2;
 
 if ($a == 'araba') {
   echo 'selam';
-} else if ($a == 'araba') {
+}
+
+if ($a == 'araba') {
   echo 'selam tekrar';
 }
 
