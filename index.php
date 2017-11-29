@@ -8,6 +8,7 @@ function urlyeCevir($cumle) {
   // 4 - Harfleri küçült
 
   $cumle = str_replace(' ', '-', $cumle);
+  $cumle = str_replace(['!', ',', '#'], '-', $cumle);
 
 
   return $cumle;
