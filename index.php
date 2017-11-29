@@ -14,6 +14,8 @@ function urlyeCevir($cumle) {
   $tr = ['ı', 'ü', 'ş'];
   $en = ['i', 'u', 's'];
 
+  $cumle = str_replace($tr, $en, $cumle);
+
 
   return $cumle;
 }
