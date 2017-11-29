@@ -11,7 +11,7 @@ function urlyeCevir($soz) {
   return $soz;
 }
 
-urlyeCevir($soz);
+echo urlyeCevir($soz);
 
 // $soz2 = 'yurtta-baris-dunyada-baris';
 
