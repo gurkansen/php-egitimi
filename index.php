@@ -30,8 +30,8 @@ $kelimeler = explode(' ', $soz);
 // echo str_replace('dünyada', 'marsta', $soz);
 
 $yenisoz = str_replace('ı', 'i', $soz);
-$yenisoz = str_replace('ü', 'u', $soz);
-echo str_replace('ş', 's', $soz);
+$yenisoz = str_replace('ü', 'u', $yenisoz);
+echo str_replace('ş', 's', $yenisoz);
 
 // echo '<a href="">Yurtta</a>';
 
