@@ -22,7 +22,7 @@ $kelimeler = explode(' ', $soz);
 
 // echo strlen($soz); // Harf sayar string length
 // echo $kelimeler[0];
-echo substr('Gürkan', 0, 4);
+echo mb_substr('Gürkan', 0, 4);
 echo '<br>';
 echo substr('Erdem', 0, 4);
 
