@@ -4,7 +4,7 @@ $i = 0;
 while ($i < 7) {
   echo 'Sağlandı ';
   // $i = $i + 1;
-  $i++;
+  $i += 2;
 }
 
 
