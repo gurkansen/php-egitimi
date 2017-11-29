@@ -29,6 +29,8 @@ $kelimeler = explode(' ', $soz);
 
 // echo str_replace('dünyada', 'marsta', $soz);
 
+
+
 // echo '<a href="">Yurtta</a>';
 
 // echo $soz . '<br>';
