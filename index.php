@@ -28,7 +28,6 @@ function hashtagVarMi($soz) {
     echo $kelimeler[$i] . '<br>';
   }
 
-  return 'Hashtag var!';
 }
 
 
