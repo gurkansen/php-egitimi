@@ -22,7 +22,7 @@ function urlyeCevir($cumle) {
 
 function hashtagVarMi($soz) {
 
-  // ..
+  $kelimeler = explode(' ', $soz);
 
   return 'Hashtag var!';
 }
