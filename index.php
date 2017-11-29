@@ -28,7 +28,7 @@ function hashtagVarMi($soz) {
     // echo $kelimeler[$i] . '<br>';
 
     if ($kelimeler[$i][0] == '#') {
-
+      echo 'hashtag var!';
     }
 
   }
