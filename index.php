@@ -24,6 +24,10 @@ function hashtagVarMi($soz) {
 
   $kelimeler = explode(' ', $soz);
 
+  for($i = 0; $i < count($kelimeler); $i++) {
+    echo $kelimeler[$i] . '<br>';
+  }
+
   return 'Hashtag var!';
 }
 
@@ -31,7 +35,7 @@ function hashtagVarMi($soz) {
 $soz = 'Yurtta Barış, #Dünyada Barış!';
 
 // echo urlyeCevir($soz);
-echo hashtagVarMi($soz);
+hashtagVarMi($soz);
 
 // $soz2 = 'yurtta-baris-dunyada-baris';
 
