@@ -1,7 +1,7 @@
 <?php
 
 $i = 0;
-while (true) {
+while ($i < 7) {
   echo 'Sağlandı ';
 }
 
