@@ -2,7 +2,7 @@
 
 function urlyeCevir($cumle) {
 
-  return $soz;
+  return $cumle;
 }
 
 
