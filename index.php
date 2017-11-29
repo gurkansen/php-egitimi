@@ -9,6 +9,7 @@ function urlyeCevir($cumle) {
 
   $cumle = str_replace(' ', '-', $cumle);
   $cumle = str_replace(['!', ',', '#'], '', $cumle);
+  $cumle = strtolower($cumle);
 
 
   return $cumle;
