@@ -1,12 +1,13 @@
 <?php
 
-$soz = 'Yurtta Barış Dünyada Barış!';
-
-
 function urlyeCevir($soz) {
 
   return $soz;
 }
+
+
+
+$soz = 'Yurtta Barış Dünyada Barış!';
 
 echo urlyeCevir($soz);
 
