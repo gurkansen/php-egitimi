@@ -3,7 +3,7 @@
 echo '<h1>Başlık 1</h1>';
 
 for ($i = 0; $i < 7; $i++) {
-  echo 'For sağlandı';
+  // echo 'For sağlandı';
 }
 
 // $i = 0;
